@@ -4,10 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-# Jonah Kelman
+# Jonah 
 
 I am a Computer Science Student at the University of Michigan with a minor in Mathematics.
 I enjoy finding creative ways to build efficient, reliable systems and solve logical problems.
