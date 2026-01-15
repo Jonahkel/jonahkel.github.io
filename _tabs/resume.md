@@ -5,13 +5,6 @@ icon: fas fa-file-invoice
 order: 2
 ---
 
----
-layout: page
-title: Resume
-icon: fas fa-file-invoice
-order: 2
----
-
 ## Education
 **University of Michigan, College of Engineering** *Bachelor of Science in Engineering in Computer Science, Minor in Math* **GPA: 4.0/4.0** | Expected May 2027  
 **Honors:** University Honors, Dean’s List, William J. Branstrom Freshman Prize
