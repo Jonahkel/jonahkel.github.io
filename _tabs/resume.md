@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 icon: fas fa-file-invoice
-order: 2
+order: 1
 ---
 
 ## Education
