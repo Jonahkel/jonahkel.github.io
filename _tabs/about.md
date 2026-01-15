@@ -13,4 +13,4 @@ Currently, I'm working in Professor Karem Sakallah's formal verifications resear
 
 Other projects I've worked on include the autonomy software for the Michigan Mars Rover Team. I have also developed a full-stack instagram clone.
 
-When I'm not coding, I serve as president of the Hillel Outdoor Advneture Club, where I lead meetings and plan outdoor events for dozens of students.
+When I'm not coding, I serve as president of the Hillel Outdoor Adventure Club, where I lead meetings and plan outdoor events for dozens of students.
