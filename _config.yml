@@ -14,7 +14,7 @@ timezone: America/Detroit
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jonah Kelman | Portfolio # the main title
+title: Jonah | Portfolio # the main title
 
 tagline:  Mathematics-driven software engineering and formal verification # it will display as the subtitle
 
