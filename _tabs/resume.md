@@ -25,7 +25,7 @@ order: 1
 * Implemented and tested verification algorithms in **Python and Ivy** across benchmark distributed protocols.
 * Applied mathematical symmetry analysis to identify patterns, enabling efficient verification of large-scale systems.
 
-### Autonomy Software Programmer
+### [Autonomy Software Programmer]({% post_url 2026-01-15-mars-rover-navigation %})
 **Michigan Mars Rover Team** | *Sept 2024 – May 2025*
 * Developed autonomous navigation software using **ROS2, C++, and Python**.
 * Built point-cloud visualizations for robotic arm reach, increasing the efficiency of autonomous typing.
