@@ -33,10 +33,10 @@ Computer Science student at the University of Michigan with a Math minor and a s
 ---
 
 ## Skills
-| Category                      | Tools & Languages                                                                  |
-| :--------------------------- | :--------------------------------------------------------------------------------- |
-| **Programming Languages** | C++, C, Python, Java, C#, HTML, Javascript, SQL                                    |
-| **Frameworks & Tools** | Git, Linux, ROS2, Flask, REST API, React
+| Category                  | Tools & Languages                               |
+| :------------------------ | :---------------------------------------------- |
+| **Programming Languages** | C++, C, Python, Java, C#, HTML, Javascript, SQL |
+| **Frameworks & Tools**    | Git, Linux, ROS2, Flask, REST API, React        |
 
 ---
 
