@@ -33,23 +33,23 @@ Computer Science student at the University of Michigan with a Math minor and a s
 ---
 
 ## Skills
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Programming Languages** | C++, C, Python, Java, C#, HTML, Javascript, SQL |
-| **Frameworks & Tools** | Git, Linux, ROS2, Flask, REST API, React |
+| Category                      | Tools & Languages                                                                  |
+| :--------------------------- | :--------------------------------------------------------------------------------- |
+| **Programming Languages** | C++, C, Python, Java, C#, HTML, Javascript, SQL                                    |
+| **Frameworks & Tools** | Git, Linux, ROS2, Flask, REST API, React
 
 ---
 
 ## Technical & Research Experience
 
-### Formal Methods Research Assistant
+### [Formal Methods Research Assistant]({% post_url 2026-01-16-research %})
 **QSM-Cutoff Research Lab** | *Ann Arbor, MI* | *June 2025 – Present*
 
 * Developed automated verification methods to prove correctness of distributed systems, reducing the manual effort required to ensure protocol reliability.
 * Implemented and tested verification algorithms in Python and Ivy across benchmark distributed protocols, analyzing reachable states and validating safety properties.
 * Applied mathematical symmetry analysis techniques to identify patterns in protocol behavior, enabling more efficient verification of large-scale distributed systems.
 
-### Autonomy Software Programmer
+### [Autonomy Software Programmer]({% post_url 2026-01-15-mars-rover %})
 **Michigan Mars Rover Team** | *Ann Arbor, MI* | *September 2024 – May 2025*
 
 * Developed autonomous navigation software using ROS2, C++, and Python.
