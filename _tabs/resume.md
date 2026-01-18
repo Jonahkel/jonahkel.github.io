@@ -17,7 +17,15 @@ Computer Science student at the University of Michigan with a Math minor and a s
 ---
 
 ## Education
-**University of Michigan, College of Engineering** | *Ann Arbor, MI* *Bachelor of Science in Engineering in Computer Science, Minor in Math* | **GPA: 4.0/4.0** *Expected May 2027*
+**University of Michigan, College of Engineering**
+
+*Ann Arbor, MI*
+
+*Bachelor of Science in Engineering in Computer Science, Minor in Math*
+
+**GPA: 4.0/4.0**
+
+*Expected Graduation: May 2027*
 
 * **Course Highlights:** Data Structures and Algorithms, Linear Algebra, Web Design, Machine Learning, Logic Design
 * **Awards/Honors:** University Honors, Dean's List, William J. Branstrom Freshman Prize
