@@ -9,7 +9,7 @@ image:
   alt: "The Michigan Mars Rover navigating a rocky terrain."
 ---
 
-From Sepetember 2024 to May 2025, I was an autonomy software programmer for the Michigan Mars Rover team. My work focused on enabling the rover to traverse rugged, unknown terrain using real-time environmental sensing pathfinding. All software was developed for ROS2, and I programmed in C++ and Python.
+From Sepetember 2024 to May 2025, I was an autonomy software programmer for the Michigan Mars Rover team. My work focused on enabling the rover to traverse rugged, unknown terrain using real-time environmental sensing pathfinding. All software was developed in ROS2, and I programmed in C++ and Python.
 
 One of my goals was to write software for the rover's robotic arm. A recent addition to the competition, the rover would use the arm to type commands on a physical keyboard. Using RViz (ROS Visualization), I designed a high-fidelity point cloud model that mapped the arm's exact operational workspace. This spatial analysis was critical for the path-planning algorithm, ensuring that every coordinate instruction sent was within the arm's physical reach, thereby preventing hardware strain and execution failures during the competition.
 
@@ -21,3 +21,4 @@ I also worked extensively on the navigation software. During the competition, ou
 ![ROS Navigation Costmap](/assets/rover_path.png)
 _Figure 2: RViz visualization of the navigation costmap._
 
+My time on the Mars Rover team was overall a great experience for me. It was really fun to work with other students on a robotics project again. (Fun fact: my first programming experience, which inspired me to study computer science, was a robotics course in high school.) ROS2 is a very useful, albeit often frustrating, robotics framework, which I'm glad I learned. The Mars Rover team also gave me experience collaborating with several other software engineers on a complex codebase, and I became proficient with Git techniques such as creating/solving issues, pull requests, and merging branches.
