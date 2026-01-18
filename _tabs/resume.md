@@ -60,7 +60,7 @@ Computer Science student at the University of Michigan with a Math minor and a s
 
 ## Projects
 
-### Instagram Clone - Full-Stack Web Application
+### [Instagram Clone - Full-Stack Web Application]({% post_url 2026-01-18-web %})
 *September 2025*
 
 * Built a full-stack social media app using Flask (Python), React (JavaScript), and SQL.
