@@ -14,7 +14,7 @@ timezone: America/Detroit
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jonah | Portfolio # the main title
+title: Jonah Kelman | Portfolio # the main title
 
 tagline:  Mathematics-driven software engineering and formal verification # it will display as the subtitle
 
@@ -37,15 +37,15 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jonah
-  email: fake@example.com # change to your email address
+  name: Jonah Kelman
+  email: jonahkel@umich.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/jonahkel # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jonah-kelman
 
 # Site Verification Settings
 webmaster_verifications:
