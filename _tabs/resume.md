@@ -6,8 +6,8 @@ order: 1
 ---
 
 # Jonah
-<!-- # Jonah Kelman
-**Ann Arbor, 48104** | [jonahkel@umich.edu](mailto:jonahkel@umich.edu) | [LinkedIn](https://www.linkedin.com/in/jonah-kelman) | [GitHub](https://github.com/Jonahkel) -->
+# Jonah Kelman
+**Ann Arbor, 48104** | [jonahkel@umich.edu](mailto:jonahkel@umich.edu) | [LinkedIn](https://www.linkedin.com/in/jonah-kelman) | [GitHub](https://github.com/Jonahkel)
 
 ---
 
