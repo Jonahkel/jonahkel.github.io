@@ -9,7 +9,7 @@ image:
   alt: "The Michigan Mars Rover navigating a rocky terrain."
 ---
 
-From Sepetember 2024 to May 2025, I was an autonomy software programmer for the Michigan Mars Rover team. My work focused on enabling the rover to traverse rugged, unknown terrain using real-time environmental sensing pathfinding. All software was developed in ROS2, and I programmed in C++ and Python.
+From Sepetember 2024 to May 2025, I was an autonomy software programmer for the Michigan Mars Rover team. My work focused on enabling the rover to traverse rugged, unknown terrain using real-time environmental sensing pathfinding. All software was developed in ROS2 (Robotic Operating System 2), a popular framework for robotics software development. I mostly programmed using both C++ and Python, taking advantage of its ROS2's tools for visualization, simulation, and logging.
 
 One of my goals was to write software for the rover's robotic arm. A recent addition to the competition, the rover would use the arm to type commands on a physical keyboard. Using RViz (ROS Visualization), I designed a high-fidelity point cloud model that mapped the arm's exact operational workspace. This spatial analysis was critical for the path-planning algorithm, ensuring that every coordinate instruction sent was within the arm's physical reach, thereby preventing hardware strain and execution failures during the competition.
 
