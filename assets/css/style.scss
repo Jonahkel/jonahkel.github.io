@@ -8,3 +8,9 @@
 body {
   line-height: 1.15 !important; /* Default is 1.6 */
 }
+
+/* Only turn white when the user has Dark Mode toggled */
+[data-mode="dark"] p > .img-link + em {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
