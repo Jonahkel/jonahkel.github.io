@@ -9,8 +9,13 @@ body {
   line-height: 1.15 !important; /* Default is 1.6 */
 }
 
-/* Only turn white when the user has Dark Mode toggled */
-[data-mode="dark"] p > .img-link + em {
-  color: #ffffff !important;
-  opacity: 1 !important;
+html[data-mode='dark'] {
+
+  /* Specific high-contrast for image captions */
+  img + em {
+    color: #ffffff !important;   /* Bright white for the caption text */
+    opacity: 1;                 /* Chirpy often dims captions; this restores full visibility */
+    display: block;
+    text-align: center;
+  }
 }
