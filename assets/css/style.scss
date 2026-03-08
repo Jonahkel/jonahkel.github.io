@@ -12,7 +12,7 @@ body {
 html[data-mode='dark'] {
 
   /* Specific high-contrast for image captions */
-  img + em {
+  a + em {
     color: #ffffff !important;   /* Bright white for the caption text */
     opacity: 1;                 /* Chirpy often dims captions; this restores full visibility */
     display: block;
