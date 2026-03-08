@@ -9,8 +9,6 @@ body {
   line-height: 1.15 !important; /* Default is 1.6 */
 }
 
-html[data-mode='dark'] {
-
   /* Specific high-contrast for image captions */
   a + em {
     color: #ffffff !important;   /* Bright white for the caption text */
@@ -18,4 +16,3 @@ html[data-mode='dark'] {
     display: block;
     text-align: center;
   }
-}
