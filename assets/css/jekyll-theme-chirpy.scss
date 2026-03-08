@@ -1,0 +1,21 @@
+---
+---
+@import 'main';
+
+/* --- CUSTOM OVERRIDES START HERE --- */
+
+/* 1. Adjust Line Spacing for better readability */
+body {
+  line-height: 1.15 !important; /* Default is 1.6 */
+}
+
+html[data-mode='dark'] {
+
+  /* Specific high-contrast for image captions */
+  a + em {
+    color: #ffffff !important;   /* Bright white for the caption text */
+    opacity: 1;                 /* Chirpy often dims captions; this restores full visibility */
+    display: block;
+    text-align: center;
+  }
+}
