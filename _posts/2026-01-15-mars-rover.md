@@ -17,7 +17,7 @@ One of my goals was to write software for the rover's robotic arm. A recent addi
   <a href="/assets/pointcloud.png" class="img-link" style="display: block; margin: auto;">
     <img src="/assets/pointcloud.png" alt="Robotic Arm Reachability Model" style="display: block; margin: auto; max-width: 100%; height: auto;">
   </a>
-  <span style="color: #ffffff !important; opacity: 1 !important; font-style: italic; display: block; margin-top: 10px; text-align: center;">
+  <span style="color: var(--text-color) !important; opacity: 1 !important; font-style: italic; display: block; margin-top: 10px; text-align: center;">
     Figure 1: RViz visualization of the 3D point cloud used to model the robotic arm’s operational workspace.
   </span>
 </p>
@@ -28,7 +28,7 @@ I also worked extensively on the navigation software. During the competition, ou
   <a href="/assets/rover_path.png" class="img-link" style="display: block; margin: auto;">
     <img src="/assets/rover_path.png" alt="ROS Navigation Costmap" style="display: block; margin: auto; max-width: 100%; height: auto;">
   </a>
-  <span style="color: #ffffff !important; opacity: 1 !important; font-style: italic; display: block; margin-top: 10px; text-align: center;">
+  <span style="color: var(--text-color) !important; opacity: 1 !important; font-style: italic; display: block; margin-top: 10px; text-align: center;">
     Figure 2: RViz visualization of the navigation costmap.
   </span>
 </p>
