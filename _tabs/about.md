@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-# Jonah 
+# Jonah Kelman
 
 I am a Computer Science Student at the University of Michigan with a minor in Mathematics.
 I enjoy finding creative ways to build efficient, reliable systems and solve logical problems.
